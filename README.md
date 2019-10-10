@@ -6,7 +6,7 @@ Thi is not a full blown repo, just following along with : https://learn.hashicor
 
 # Todo
 
-- [ ] create token
-- [ ] test remote state storage
 
 # done
+- [x] create token
+- [x] test remote state storage
